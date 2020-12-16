@@ -1,7 +1,7 @@
 {
   "name": "xude",
   "version": "0.0.1",
-  "description": "A husky helper used to run migrations/installs for popular NodeJS frameworks easily on 'post-merge' git hooks",
+  "description": "A husky helper used to run migrations/install checks for popular NodeJS frameworks easily on 'post-merge' git hook",
   "bin": {
      "xude": ".bin/xude.js"
   },
