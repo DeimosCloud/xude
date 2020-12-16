@@ -1,2 +1,2 @@
 # xude
-A husky helper used to run migrations/installs for popular NodeJS frameworks easily on "post-merge" git hooks
+A husky helper used to run migrations/install checks for popular NodeJS frameworks easily on 'post-merge' git hook
