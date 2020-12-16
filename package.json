@@ -1,0 +1,21 @@
+{
+  "name": "xude",
+  "version": "0.0.1",
+  "description": "A husky helper used to run migrations/installs for popular NodeJS frameworks easily on 'post-merge' git hooks",
+  "bin": {
+     "xude": ".bin/xude.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "figlet": "^1.5.0",
+    "color: "^3.1.3"
+  },
+  "keywords": [],
+  "author": "DeimosCloud",
+  "license": "MIT"
+}
